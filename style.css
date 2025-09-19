@@ -1,0 +1,80 @@
+*{
+  text-align: center;
+}
+p{
+  margin: 0;
+  text-align: center;
+}
+.space{
+  padding: 100px;
+}
+h2{
+  margin-bottom: 1%;
+}
+
+
+.cheesecake{
+  width: 100%;
+  background: #f0f0f0;
+  padding: 30px;           /* top & bottom spacing */
+}
+#ccimage{
+   width: 200px;
+   height: auto;
+   margin-bottom: 3%;
+}
+
+
+#risotto{
+  width: 100%;
+  background: #f0f0f0;
+  padding: 30px; 
+}
+#rimage{
+  width: 400px;
+  height: auto;
+  margin-bottom: 3%;
+}
+
+
+#wagyu{
+  width: 100%;
+  background: #f0f0f0;
+  padding: 30px;
+}
+#wimage{
+  width: 400px;
+  height: auto;
+  margin-bottom: 3%;
+}
+
+
+#duck{
+  width: 100%;
+  background: #f0f0f0;
+  padding: 30px;
+}
+#dimage{
+  width: 400px;
+  height: auto;
+  margin-bottom: 3%;
+}
+
+
+#lamb{
+  width: 100%;
+  background: #f0f0f0;
+  padding: 30px;
+}
+#limage{
+  width: 400px;
+  height: auto;
+  margin-bottom: 3%;
+}
+
+
+#last{
+  width: 100%;
+  background: #CFAB8D;
+  padding: 200px;
+}
